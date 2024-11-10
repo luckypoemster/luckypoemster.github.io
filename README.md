@@ -38,7 +38,7 @@
       <li>First thing</li>
       <li>Second thing</li>
       <li>Third thing</li>
-    </ul>
+    
 
     <p>To learn more HTML/CSS, check out these <a href="https://neocities.org/tutorials">tutorials</a>!</p>
   
